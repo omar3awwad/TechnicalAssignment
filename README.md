@@ -12,8 +12,8 @@ Welcome! Follow the steps below to get started.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/technical-assignment.git
-    cd technical-assignment
+    git clone https://github.com/omar3awwad/TechnicalAssignment.git
+    cd TechnicalAssignment
     ```
 
 2. Open the `appsettings.json` file and update the connection string:
