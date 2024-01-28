@@ -55,8 +55,9 @@ Enjoy exploring the Technical Assignment!
    ```http
    GET http://localhost:8090/api/Models?make=Lincoln&modelyear=2015
 
-Response:
-   ```json
+Example Response:
+
+```json
 {
   "Models": [
     "MKZ",
@@ -68,4 +69,5 @@ Response:
     "MKC"
   ]
 }
+```
 
