@@ -38,7 +38,9 @@ Welcome! Follow the steps below to get started.
 ## Explore the API with Swagger
 
 1. Open your web browser and navigate to [Swagger](http://localhost:8090/swagger/index.html).
-
+   ```http
+   GET http://localhost:8090/swagger/index.html
+   
 2. You can test the API by trying different car makes.
 
     - If you pass a car make that exists, the API will return an "Ok" response.
