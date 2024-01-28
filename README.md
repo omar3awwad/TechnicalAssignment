@@ -56,7 +56,7 @@ Enjoy exploring the Technical Assignment!
    GET http://localhost:8090/api/Models?make=Lincoln&modelyear=2015
 
 Example Response:
-
+"Success (200 OK)"
 ```json
 {
   "Models": [
