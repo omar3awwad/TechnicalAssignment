@@ -45,3 +45,24 @@ Welcome! Follow the steps below to get started.
     - If you pass a car make that does not exist, the API will return a "No Content" response.
 
 Enjoy exploring the Technical Assignment!
+
+3. Example API Request:
+
+   Make a GET request to the following API endpoint:
+
+   ```http
+   GET http://localhost:8090/api/Models?make=Lincoln&modelyear=2015
+
+Response:
+
+{
+  "Models": [
+    "MKZ",
+    "MKS",
+    "MKT",
+    "MKT",
+    "MKX",
+    "Navigator",
+    "MKC"
+  ]
+}
