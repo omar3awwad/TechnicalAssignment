@@ -55,5 +55,15 @@ Enjoy exploring the Technical Assignment!
 
 Response:
    ```json
-{ "Models": [ "MKZ", "MKS", "MKT", "MKT", "MKX", "Navigator", "MKC" ] }
+{
+  "Models": [
+    "MKZ",
+    "MKS",
+    "MKT",
+    "MKT",
+    "MKX",
+    "Navigator",
+    "MKC"
+  ]
+}
 
