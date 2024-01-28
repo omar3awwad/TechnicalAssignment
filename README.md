@@ -54,15 +54,6 @@ Enjoy exploring the Technical Assignment!
    GET http://localhost:8090/api/Models?make=Lincoln&modelyear=2015
 
 Response:
+   ```json
+{ "Models": [ "MKZ", "MKS", "MKT", "MKT", "MKX", "Navigator", "MKC" ] }
 
-{
-  "Models": [
-    "MKZ",
-    "MKS",
-    "MKT",
-    "MKT",
-    "MKX",
-    "Navigator",
-    "MKC"
-  ]
-}
