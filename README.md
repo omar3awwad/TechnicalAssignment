@@ -44,6 +44,4 @@ Welcome! Follow the steps below to get started.
     - If you pass a car make that exists, the API will return an "Ok" response.
     - If you pass a car make that does not exist, the API will return a "No Content" response.
 
-Feel free to explore and test the various API endpoints available in Swagger.
-
 Enjoy exploring the Technical Assignment!
